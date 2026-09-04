@@ -1,4 +1,4 @@
-# 🤖 AI Merchant Growth Agent
+# AI Merchant Growth Agent
 
 An AI-powered shopping assistant that helps customers discover relevant products while helping merchants increase basket value through intelligent recommendations and cross-selling.
 
@@ -6,7 +6,7 @@ Built for the **Razorpay AI Buildathon — AI Growth & Agentic Commerce** track.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The AI Merchant Growth Agent acts as a conversational shopping assistant.
 
@@ -26,7 +26,7 @@ The goal is to demonstrate how AI can increase merchant sales while keeping fina
 
 ---
 
-# 🎯 Problem
+# Problem
 
 Traditional online shopping experiences often rely on:
 
@@ -48,7 +48,7 @@ The system should be able to identify these opportunities without automatically 
 
 ---
 
-# 💡 Solution
+# Solution
 
 The AI Merchant Growth Agent combines:
 
@@ -71,13 +71,13 @@ The customer chooses what to add to the cart.
 
 Before payment:
 
-> 🔐 The AI agent cannot create a payment automatically. Please review and approve the order yourself.
+> The AI agent cannot create a payment automatically. Please review and approve the order yourself.
 
 The customer must explicitly approve the payment.
 
 ---
 
-# 🧠 Key Features
+# Key Features
 
 ## 1. AI Shopping Assistant
 
