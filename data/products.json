@@ -1,0 +1,110 @@
+[
+  {
+    "id": "P001",
+    "name": "GamePro X Headphones",
+    "category": "Headphones",
+    "price": 4499,
+    "description": "Low-latency gaming headphones with surround sound and a comfortable over-ear design.",
+    "tags": ["gaming", "headphones", "audio"],
+    "complements": ["P002", "P003"]
+  },
+  {
+    "id": "P002",
+    "name": "Gaming Mouse Pro",
+    "category": "Mouse",
+    "price": 999,
+    "description": "Ergonomic gaming mouse with adjustable DPI and programmable buttons.",
+    "tags": ["gaming", "mouse", "accessory"],
+    "complements": ["P001", "P003"]
+  },
+  {
+    "id": "P003",
+    "name": "MechKeys RGB Keyboard",
+    "category": "Keyboard",
+    "price": 2999,
+    "description": "Mechanical RGB keyboard designed for gaming and programming.",
+    "tags": ["gaming", "keyboard", "programming"],
+    "complements": ["P001", "P002"]
+  },
+  {
+    "id": "P004",
+    "name": "CodeBook Pro Laptop",
+    "category": "Laptop",
+    "price": 64999,
+    "description": "16GB RAM laptop with 512GB SSD, suitable for programming and development.",
+    "tags": ["laptop", "programming", "developer"],
+    "complements": ["P005", "P009"]
+  },
+  {
+    "id": "P005",
+    "name": "Adjustable Laptop Stand",
+    "category": "Laptop Accessories",
+    "price": 1999,
+    "description": "Adjustable aluminum laptop stand designed for comfortable desk setups.",
+    "tags": ["laptop", "stand", "desk", "ergonomic"],
+    "complements": ["P004", "P009"]
+  },
+  {
+    "id": "P006",
+    "name": "StreamCam HD",
+    "category": "Webcam",
+    "price": 3499,
+    "description": "Full HD webcam suitable for online meetings, classes and streaming.",
+    "tags": ["webcam", "streaming", "meetings"],
+    "complements": ["P004", "P005"]
+  },
+  {
+    "id": "P007",
+    "name": "Creator Laptop Ultra",
+    "category": "Laptop",
+    "price": 74999,
+    "description": "Powerful laptop with 16GB RAM and 1TB SSD for development and content creation.",
+    "tags": ["laptop", "programming", "creator"],
+    "complements": ["P005", "P009"]
+  },
+  {
+    "id": "P008",
+    "name": "Wireless Office Mouse",
+    "category": "Mouse",
+    "price": 799,
+    "description": "Quiet wireless mouse designed for office work and everyday productivity.",
+    "tags": ["mouse", "office", "wireless"],
+    "complements": ["P004", "P005"]
+  },
+  {
+    "id": "P009",
+    "name": "USB-C Hub 7-in-1",
+    "category": "Accessories",
+    "price": 1799,
+    "description": "Multi-port USB-C hub with HDMI, USB and SD card connectivity.",
+    "tags": ["usb", "hub", "laptop", "accessory"],
+    "complements": ["P004", "P007"]
+  },
+  {
+    "id": "P010",
+    "name": "DeskMat XL",
+    "category": "Desk Accessories",
+    "price": 699,
+    "description": "Large desk mat suitable for gaming and productivity setups.",
+    "tags": ["desk", "gaming", "accessory"],
+    "complements": ["P002", "P003"]
+  },
+  {
+    "id": "P011",
+    "name": "NoiseCancel Pro Earbuds",
+    "category": "Earbuds",
+    "price": 3999,
+    "description": "Wireless earbuds with active noise cancellation and long battery life.",
+    "tags": ["earbuds", "audio", "travel"],
+    "complements": ["P010", "P012"]
+  },
+  {
+    "id": "P012",
+    "name": "PowerBank 20000",
+    "category": "Accessories",
+    "price": 1499,
+    "description": "20,000mAh portable power bank with fast charging support.",
+    "tags": ["powerbank", "travel", "accessory"],
+    "complements": ["P011"]
+  }
+]
