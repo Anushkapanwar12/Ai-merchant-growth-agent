@@ -18,12 +18,13 @@ Instead of simply searching for products, the agent:
 4. Adds selected products to a shopping cart.
 5. Calculates the basket value.
 6. Requests explicit human approval before creating a payment order.
-7. Creates a simulated Razorpay Test Mode order.
+7. Creates a Razorpay-compatible simulated payment order in safe mock mode.
 8. Records important actions in an audit log.
 9. Handles payment failures safely without processing a payment.
 
 The goal is to demonstrate how AI can increase merchant sales while keeping financial actions **bounded, explainable, auditable, and human-gated**.
-
+> **Payment Integration Note:**  
+> This project currently uses a safe mock payment mode because no Razorpay account or API credentials are configured. No real money is charged. The payment flow demonstrates human approval, amount validation, audit logging, and failure recovery without storing or exposing payment credentials.
 ---
 
 # Problem
